@@ -36,3 +36,6 @@ build/
 application-secrets.properties
 *.env
 .env
+
+Ecommerce/
+ecommerce-frontend/
